@@ -4,5 +4,5 @@ This demo is based mostly on a PDF titled "DAD Manual 2018 - Copy (2).pdf" that 
 
 The software used is "[mdBook](https://github.com/rust-lang/mdBook)". The software takes user input in the form of plain text files and interprets them to generate a website in an ebook/e-manual style.
 
-The demo of the software output is hosted on a subdomain Milo's personal server: [https://dadbooktest.nyuu.page](https://dadbooktest.nyuu.page).
+The demo of the software output is hosted on a subdomain on Milo's personal server: [https://dadbooktest.nyuu.page](https://dadbooktest.nyuu.page).
 
