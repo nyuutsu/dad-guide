@@ -83,4 +83,5 @@
 
 -----------
 
+[For Developers](misc/developers.md)
 [Contributors](misc/contributors.md)
