@@ -1,6 +1,6 @@
 # Contributors
 
-This demo is based mostly on a PDF titled "DAD Manual 2018 - Copy (2).pdf" that gets circulated around the network. It has a footer stating it is "Version 2.2 - 2018" in some parts a a footer stating it is from "November 2017" in others. My *guess* is that this was written by Mike, but, I'm not totally sure. I'll synthesize new information and what I've learned from teaching about the system.
+This demo is based mostly on Zach's PDF, "DAD Manual 2018", that gets circulated around the network. It has a footer stating it is "Version 2.2 - 2018" in some parts a a footer stating it is from "November 2017" in others. I'll synthesize new information and what I've learned from teaching about the system.
 
 The software used is "[mdBook](https://github.com/rust-lang/mdBook)".
 

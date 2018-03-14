@@ -42,7 +42,7 @@
 - [Projects](projects/README.md)
   - [Project Search](projects/project-search.md)
   - [Project View](projects/view/README.md)
-    - [Project View's "Actions" Dropdown](projects/view/action-dropdown.md)
+    - [You have the following options under the “Actions” drop-down menu when in the Projects view.](projects/view/action-dropdown.md)
     - [Views](projects/view/views.md)
     - [Tasks](projects/view/tasks.md)
   - [New Project](projects/new-project/README.md)
@@ -67,11 +67,6 @@
   - [Electronic Timesheets](appendix-timekeeping/electronic-timesheets.md)
 
 ---
-
-# Test Section
-
-- [Changelog!]()
-- [Further Reading For DAD Administrators]()
 
 # Example Workflows
 
