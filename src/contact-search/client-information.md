@@ -1,1 +1,3 @@
 # Client Information
+
+If it is established that the individual is in the database, the items already created appear. It goes through and highlights all the service requests, contacts, and any of the notes that are associated with that particular individual. Using the Actions drop down you have the ability to any of items created in that particular wizard. The information will be updated a note will automatically done.   
