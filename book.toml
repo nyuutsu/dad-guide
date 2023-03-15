@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "dad manual test"
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+[output.html]
+# Required: Your repository URL used in the link.
+git-repository-url = "https://github.com/nyuutsu/dad-guide"
+additional-css = ["last-changed.css"]
