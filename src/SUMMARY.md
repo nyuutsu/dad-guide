@@ -66,7 +66,20 @@
   - [How to Enter Leave Time](appendix-timekeeping/enter-time.md)
   - [Electronic Timesheets](appendix-timekeeping/electronic-timesheets.md)
 
----
+-----------
+
+# Two-Factor Authentication
+
+- [2FA Guide](2fa/README.md)
+  - [Background](2fa/background.md)
+  - [How does logging in using 2FA work once I have set it up?](2fa/logging-in.md)
+  - [How do I set it up?](2fa/setup.md)
+  - [Phone Authentication Setup](2fa/phone.md)
+  - [Browser Authentication Setup](2fa/browser.md)
+  - [Multiple Accounts Information](2fa/multilog.md)
+  - [Support](2fa/support.md)
+
+-----------
 
 # Example Workflows
 

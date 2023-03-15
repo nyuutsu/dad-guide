@@ -19,3 +19,7 @@ person password you administrator has the ability to issue you a temporary passw
 
 *NOTE: DAD has multiple security level capabilities. Contact your DAD Administrator for
 details.*
+
+```admonish
+DAD now uses two-factor authentication. This feature was originally documented [here](https://2fa.nyuu.page/). Its documentation has now been recreated in this guide, too! You can access it [here](https://2fa.nyuu.page/2fa/background.html). Within the next day or so, the 2fa section will be more cleanly integrated into the rest of the guide and this notice will be removed
+```
