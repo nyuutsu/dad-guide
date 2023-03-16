@@ -21,5 +21,5 @@ person password you administrator has the ability to issue you a temporary passw
 details.*
 
 ```admonish
-DAD now uses two-factor authentication. This feature was originally documented [here](https://2fa.nyuu.page/). Its documentation has now been recreated in this guide, too! You can access it [here](https://2fa.nyuu.page/2fa/background.html). Within the next day or so, the 2fa section will be more cleanly integrated into the rest of the guide and this notice will be removed
+DAD now uses two-factor authentication. The documentation for this feature is going to change a lot over the next few days to best make use of the "ebook" / "tree" format, but, the core content is already here!
 ```

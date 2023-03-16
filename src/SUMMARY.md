@@ -4,7 +4,14 @@
 
 # DAD Reference Guide
 - [Background](guide/background.md)
-- [Logging into DAD](guide/logging-in.md)
+- [Logging into DAD](login/README.md)
+  - [Two-Factor Authentication](login/2fa/README.md)
+    - [How does logging in using 2FA work once I have set it up?](login/2fa/logging-in.md)
+    - [How do I set it up?](login/2fa/setup.md)
+    - [Phone Authentication Setup](login/2fa/phone.md)
+    - [Browser Authentication Setup](login/2fa/browser.md)
+    - [Multiple Accounts Information](login/2fa/multilog.md)
+    - [Support](login/2fa/support.md)
 - [DAD Control Panel](guide/control-panel.md)
 - [Display/User Preferences](display/README.md)
   - [Display/User Preferences Tips](display/tips.md)
@@ -66,18 +73,6 @@
   - [How to Enter Leave Time](appendix-timekeeping/enter-time.md)
   - [Electronic Timesheets](appendix-timekeeping/electronic-timesheets.md)
 
------------
-
-# Two-Factor Authentication
-
-- [2FA Guide](2fa/README.md)
-  - [Background](2fa/background.md)
-  - [How does logging in using 2FA work once I have set it up?](2fa/logging-in.md)
-  - [How do I set it up?](2fa/setup.md)
-  - [Phone Authentication Setup](2fa/phone.md)
-  - [Browser Authentication Setup](2fa/browser.md)
-  - [Multiple Accounts Information](2fa/multilog.md)
-  - [Support](2fa/support.md)
 
 -----------
 
@@ -92,4 +87,3 @@
 -----------
 
 [For Developers](misc/developers.md)
-[Contributors](misc/contributors.md)

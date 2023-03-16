@@ -5,8 +5,8 @@ Creating the **ULTIMATE [DAD](https://dad.ndrn.org/) MANUAL** is going to requir
 - [x] 1-2 page "confirm I should work on this" demo
 - [x] create site doc structure based on pdf table of contents
 - [x] import + newline/hard-wordwrap remove + table-ify pdf contents
-- [ ] add 2fa section **← we are here!**
+- [x] add 2fa section
 - [ ] correct image sequencing / section placement 
-- [ ] add page "age meter"
+- [x] add page "age meter"
 - [ ] rewrite / reorganize text
 - [ ] add workflows + admin sections
