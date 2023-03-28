@@ -67,11 +67,11 @@
 # Workflows
 
 - [Workflows](workflows/README.md)
+  - [I am a DAD Admin and I want to reset a user's 2FA](workflows/reset-2fa/README.md)
   - [I want to add a meeting with a client]()
   - [I want to record time and submit the timesheet]()
   - [I want to record time and submit the timesheet]()
   - [I want to log in but it's saying something about 2FA]()
-  - [I am a DAD Admin and I want to reset a user's 2FA]()
 
 -----------
 
