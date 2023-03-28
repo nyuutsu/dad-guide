@@ -20,6 +20,10 @@
 | Display Team Projects | Displays open, closed, or all Team Projects for teams which the user is assigned to depending on which option you choose from the drop-down menu |
 | Display Agency Projects | Displays open, closed, or all Agency Projects depending on which option you choose from the drop-down menu |
 
-*NOTE: When displaying Primary, Associated, Team, or Agency Projects, the last choice you make in the available drop down menu (all, open, or closed) is what will appear each time you are on your Desktop until you choose another option.*
+```admonish note
+When displaying Primary, Associated, Team, or Agency Projects, the last choice you make in the available drop down menu (all, open, or closed) is what will appear each time you are on your Desktop until you choose another option.
+```
+
+**Sample View**:
 
 ![Views table](images/views-table.png)

@@ -1,7 +1,5 @@
 # Tasks
 
-![Tasks](images/tasks.png)
-
 | Options | Feature Description |
 |---------|---------------------|
 | Edit Service Request | Enables you to edit many of the Service Request information fields such as the Eligibility or Client Objective 
@@ -33,4 +31,10 @@
 | Advanced Service Request Search | See previous Desktop Actions section. |
 | Print | Allows you to print the current screen |
 
-*Note: The **Reference Date** is the date the Service Request was originally created. DAD fields will be limited to the options available on that date. In order to have the current DAD fields and options, the reference date must be edited to the current date. Contact the your DAD Administrator for assistance.*
+```admonish note
+The **Reference Date** is the date the Service Request was originally created. DAD fields will be limited to the options available on that date. In order to have the current DAD fields and options, the reference date must be edited to the current date. Contact the your DAD Administrator for assistance.
+```
+
+**Sample View**:
+
+![Tasks](images/tasks.png)

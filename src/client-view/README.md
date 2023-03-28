@@ -10,6 +10,8 @@ You can access the Client View three ways:
 
 3. By choosing a Basic or Advanced Contact Search to find a Client from the Desktop Actions Tasks dropdown. 
 
-*NOTE: You have the option to choose to have the Contact search function on the Desktop under User Preferences.*
+```admonish note
+You have the option to choose to have the Contact search function on the Desktop under User Preferences.
+```
 
 You have the following options in the “Actions” drop-down menu when in the Client view. 

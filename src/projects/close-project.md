@@ -12,6 +12,8 @@ Step 3: Answer all of the closing questions
 
 ![Close project](images/close-project-2.png)
 
-*Note: Different project types will have different questions. Once you have answered all of the questions, click “Save & Validate for closing” button.*
+```admonish note
+Note: Different project types will have different questions. Once you have answered all of the questions, click “Save & Validate for closing” button.
+```
 
 ![Close project](images/close-project-3.png)

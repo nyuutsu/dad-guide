@@ -14,4 +14,10 @@
 | **Display Agency Projects** | Displays a summary listing of open agency Projects and gives you access to actions for viewing open, closed, or all agency Projects. Agency Projects are all Projects in DAD |
 | **Display Time** | Displays a summary list of time you have recorded for Service Requests, Projects, lunch (if applicable), and leave time for the current, or the last 7, the last 14, or the last 30 days or you can choose to ‘display time between’ certain dates. |
 
-*NOTE: The Display will remain at the last chosen setting until you change it.*
+```admonish note
+The Display will remain at the last chosen setting until you change it.
+```
+
+**Sample View**:
+
+![Desktop actions](images/desktop-actions.png)

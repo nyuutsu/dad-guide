@@ -4,4 +4,6 @@ Basic Project Search allows you to search for Projects that have been created in
 
 Advanced Project Search can be accessed when in DAD Desktop or Project views under “Tasks” in the “Actions” drop-down menu.  It has a few more options for search criteria.
 
+**Sample View**:
+
 ![Project search](images/project-search.png)

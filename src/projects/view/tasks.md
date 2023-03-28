@@ -24,6 +24,14 @@
 | Advanced Project Search | See previous Desktop Actions section |
 | Print | Allows you to print the current screen |
 
-*Note: The **Reference Date** is the date the Project was originally created. DAD fields will be limited to the options available on that date. In order to have the current DAD fields and options, the reference date must be edited to the current date.*
+```admonish note
+The **Reference Date** is the date the Project was originally created. DAD fields will be limited to the options available on that date. In order to have the current DAD fields and options, the reference date must be edited to the current date.
+```
 
-*NOTE: You may not have all of these options depending on your DAD security level.*
+```admonish note
+You may not have all of these options depending on your DAD security level.
+```
+
+**Sample View**:
+
+![Tasks table](images/tasks-table.png)

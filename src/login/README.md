@@ -2,7 +2,7 @@
 
 Link to DAD login screen: [https://dad.ndrn.org](https://dad.ndrn.org)
 
-![DAD login interface](images/logging-in-to-dad.png)
+![The DAD login screen. It has an "advocacy group" dropdown, "username" and "password" fields, and a "login" button.](images/logging-into-dad.png)
 
 The first time that you login to dad.ndrn.org the “Advocacy Group” will appear alphabetically. Once you choose your agency group, DAD will remember your group. Your DAD User Name and Password are assigned you by your DAD Administrator.
 
@@ -17,9 +17,11 @@ It is recommended that after you receive your original temporary password that y
 select “Change Password” to create your own personal password. If you forget your
 person password you administrator has the ability to issue you a temporary password.
 
-*NOTE: DAD has multiple security level capabilities. Contact your DAD Administrator for
-details.*
+```admonish note
+DAD has multiple security level capabilities. Contact your DAD Administrator for
+details.
+```
 
-```admonish
-DAD now uses two-factor authentication. The documentation for this feature is going to change a lot over the next few days to best make use of the "ebook" / "tree" format, but, the core content is already here!
+```admonish info
+DAD now uses two-factor authentication. See relevant section for rationale, tutorial, or support.
 ```

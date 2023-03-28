@@ -2,12 +2,15 @@
 
 The DAD Control Panel is the main window from which you can launch DAD or select other controls that support your use of DAD.
 
+**Sample View**:
+
 ![DAD control panel](images/control-panel.png)
 
- 
 The DAD Control Panel will reopen be open whenever DAD is running. It can be minimized or “hidden” behind other windows. Closing window will end the DAD session. 
 
-*NOTE: Controls panel options vary based on the user’s permission status*
+```admonish note
+Controls panel options vary based on the user’s permission status
+```
 
 | Options | Feature Description |
 |---------|---------------------|
@@ -17,4 +20,6 @@ The DAD Control Panel will reopen be open whenever DAD is running. It can be min
 | **User Preferences** | Lets you modify the behavior of DAD (for example, you can choose what information is displayed on the Desktop) |
 | **Logout** | Closes DAD and any open application or support windows |
 
-*NOTE: The DAD system does have a timeout feature. The feature is set to 6 hours. Do not rely on the timeout feature. Please remember to logout.*
+```admonish note
+The DAD system does have a timeout feature. The feature is set to 6 hours. Do not rely on the timeout feature. Please remember to logout.
+```

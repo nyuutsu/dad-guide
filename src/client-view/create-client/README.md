@@ -10,6 +10,12 @@ If it has been established that the individual is not in the database, there is 
 
 Any information entered into the Basic Contact Search Criteria will be automatically transferred to Client Information. 
 
-*Note: DAD assigns a unique ID to new clients. This number is listed in the Client ID field for each client record. If the agency has another filing system in use, that information, can be entered under Client Number and used as a secondary ID.*
+```admonish note
+DAD assigns a unique ID to new clients. This number is listed in the Client ID field for each client record. If the agency has another filing system in use, that information, can be entered under Client Number and used as a secondary ID.
+```
 
 ![Create new client form](images/create-new-client2.png)
+
+```admonish tip
+The phone fields are set so that additional information can be added i.e. 1234567890 ext 001 or 1234567890 (extra note) ask for "Mickey"
+```

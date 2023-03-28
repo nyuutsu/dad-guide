@@ -12,6 +12,4 @@ You can access the Project View four ways:
 
 4. By choosing Basic or Advanced Project search from the Desktop Tasks dropdown
 
-You have the following options under the “Actions” drop-down menu when in the Projects view. 
-
-![Project view](images/project-view.png)
+You have the following options under the “Actions” drop-down menu when in the Projects view:

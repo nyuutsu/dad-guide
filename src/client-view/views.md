@@ -13,6 +13,8 @@
 | Display Associated Clients | Displays all, open, or closed Associated Clients assigned to the user depending on which option you choose from the drop down menu |
 | Display Team Clients | Displays all, open, or closed Team Clients assigned to the user |
 
-*NOTE: When displaying Primary or Associated Service Requests, the last choice you make in the available drop down menu (all, open, or closed) is what will appear each time you are on your Desktop until you choose another option.*
+```admonish note
+When displaying Primary or Associated Service Requests, the last choice you make in the available drop down menu (all, open, or closed) is what will appear each time you are on your Desktop until you choose another option.
+```
 
 ![Client view](images/client-view.png)

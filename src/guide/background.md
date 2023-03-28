@@ -1,6 +1,6 @@
 # Background
 
-The Disability Advocacy Database (DAD) is a web-based data collection and management system developed by the Protection and Advocacy Network specifically
+The Disability Advocacy Database ([DAD](https://dad.ndrn.org/)) is a web-based data collection and management system developed by the Protection and Advocacy Network specifically
 for P&A/CAP programs. What started as a unified way to collect Program Performance Report (PPR) data has now evolved into an office wide tool that combines HR features
 such as time sheet management, and cost allocation tools for administrative and non-client specific advocacy efforts. DAD has also stayed true to its intent for creation of
 assisting P&A/CAP programs with completing PPRs for federal grants and contracts and the templates in place now allow agencies to have responses to data requests at their fingertips. DAD is shared system based on a cost sharing model.

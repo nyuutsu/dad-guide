@@ -8,8 +8,14 @@ Step 2: Enter a proposed close date, then click “Save & Answer Closing Data
 
 ![Close SR](images/close-sr-1.png)
 
-*NOTE: If the Service Request has been closed then re-opened, or if you have prepared the Service Request for closure and did not receive approval until a later date, you MUST edit the proposed closed date to the date you are actually closing it.*
+```admonish note
+If the Service Request has been closed then re-opened, or if you have prepared the Service Request for closure and did not receive approval until a later date, you MUST edit the proposed closed date to the date you are actually closing it.
+```
 
 Step 3: Complete the required Fields (including required local data fields)
 
 ![Close SR](images/close-sr-2.png)
+
+```admonish tip
+You MUST match the Service Type and the Intervention Strategy. They need to match the level of service provided
+```

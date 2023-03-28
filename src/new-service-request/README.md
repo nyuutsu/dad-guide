@@ -10,7 +10,9 @@ The initial screen in creating a new Service Request asks for the following info
 
 ![New Service Request](images/new-sr-2.png)
 
-*Note: Eligibility, Service Request Type and Funding Source options maybe include local data and differ from what is shown.*
+```admonish note
+Eligibility, Service Request Type and Funding Source options maybe include local data and differ from what is shown.
+```
 
 Additional screens will allow you to enter additional information.  Some information will be imported from the client record and this can be edited for accuracy.  Additional fields maybe be required to complete a service request and selected options may need to fall within certain parameters, as determined by your agency. Omissions and errors will be indicated via red “Warnings Found”. 
 

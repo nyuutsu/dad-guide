@@ -13,6 +13,8 @@ All notes contain the same basic types of information:
 
 ![Notes](images/notes-1.png)
 
-*Note: Categories can be added at any time based on need.*
+```admonish note
+Categories can be added at any time based on need.
+```
 
 ![Notes](images/notes-2.png)

@@ -2,7 +2,7 @@
 
 Primary Contact Field  
 
-or, You can choose to ‘Use Client As Contact’ for the Primary Contact, if the client is his 
+You can choose to ‘Use Client As Contact’ for the Primary Contact, if the client is his 
 or her own Primary Contact or, you can complete a contact search for a different 
 individual.  DAD will search the database for that person.  If the contact search results 
 list the correct individual, you can select that record. Otherwise, you can select “Add 

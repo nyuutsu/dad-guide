@@ -70,7 +70,7 @@ You should see two text fields: issuer and secret.
 
 In the issuer field, write anything you want. It's a descriptor for your reference.
 
-```admonish
+```admonish tip
 We'd suggest putting the username of the account in the issuer field. It might be helpful if you ever need support and it definitely will be helpful for keeping things clear if you use multiple DAD accounts.
 ```
 
@@ -86,8 +86,8 @@ Then, follow the steps in the Phone Authentication Setup or Browser Authenticati
 
 ## The codes my authenticator is making don't work
 
-```admonish
-The most likely cause of the issue is "using Milo's qr code & authenticator entry & verification codes". The second most likely cause is "using qr code & authenticator entry & verification codes from the DAD BETA site". Regardless of cause, there is a fix that should work in all cases.
+```admonish bug
+The most likely cause of the issue is "using an example QR code from a guide rather than from using the DAD website". The second most likely cause is "using qr code & authenticator entry & verification codes from the DAD BETA site". Regardless of cause, there is a fix that should work in all cases.
 ```
 
 Have your local DAD administrator reset your 2fa settings. They can do this in the same way that they can reset passwords. Have them log in on an account with admin powers, then go to Open Administration, then go to the Employees dropdown, then go to the Employees menu option. They should now be at a table listing all the users. The last column of this table, Reset 2fa, will allow them to reset your 2fa settings.
@@ -96,4 +96,4 @@ Then, follow the steps in the Phone Authentication Setup or Browser Authenticati
 
 ## I have another issue
 
-Contact [milo.nygren-cassels@ndrn.org](MAILTO:milo.nygren-cassels@ndrn.org) with any questions.
+Contact [milo.nygren-cassels@ndrn.org](MAILTO:milo.nygren-cassels@ndrn.org) with any questions or suggestions.

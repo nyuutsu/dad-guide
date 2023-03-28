@@ -17,6 +17,10 @@
 | Advanced Service Request Search | Allows you to perform a advances Service Request search |
 | Print | Allows you to print the current screen |
 
-*NOTE: You may not have all of these options depending on your DAD security level.*
+```admonish note
+You may not have all of these options depending on your DAD security level.
+```
+
+**Sample View**:
 
 ![Client view](images/client-views.png)

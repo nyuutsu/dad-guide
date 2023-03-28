@@ -4,4 +4,3 @@ The methodology for using the DAD application is that advocacy efforts from an a
 
 The following options are available under the “Actions” menu when in the Service Request View.
 
-![Service request](images/service-request.png)
